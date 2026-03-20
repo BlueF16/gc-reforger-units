@@ -1,0 +1,11 @@
+GenericEntity {
+ ID "68E963DD39D66887"
+ components {
+  MeshObject "{68E963DD7DE15FCF}" {
+   Object "{9C39849E82B5A751}Assets/Props/GrassCutter/InvisiblePlaneGrassCutter.xob"
+   ClutterOccluder 1
+  }
+ }
+ coords 1777.946 39 2906.83
+ angles 0 -16.961 0
+}

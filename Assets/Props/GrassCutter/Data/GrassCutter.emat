@@ -1,0 +1,16 @@
+MatPBRBasic {
+ ZWrite 0
+ Sort translucent
+ CastShadow 0
+ ReceiveShadow 0
+ OccludeRain 0
+ OccludeWetness 0
+ SpecularMul 0
+ AlphaMul 0.03
+ BlendMode Additive
+ RoughnessScale 0
+ MetalnessScale 0
+ BCRMap "{E05D515EDE26551C}Assets/_SharedData/Glass/ST_Glass_Dirt_01_BCR.edds"
+ OpacityMap "{60972A1E2BFE9D6F}Assets/_SharedData/Glass/ST_Glass_Dirt_01_A.edds"
+ NormalPower 0.988
+}
